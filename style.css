@@ -3,18 +3,55 @@ body{
     background-position: center;
 }
 
-.heading
-{
-font-size: 23px;
-width: 100%;
-margin: 0px;
+.heading{
+    color: whitesmoke;
+    font-size: 25px;
 }
 
-#status
-{
-font-size: 18px;
+#bed_room_button{
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 30%;
+    background-color: lightpink;
 }
 
-canvas{
-    box-shadow: 10px 10px 10px grey;
+#tv_ac_button{
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 30%;
+    background-color: lightskyblue ;
+}
+
+#desk_button{
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 30%;
+    background-color: rgb(204, 135, 250) ;
+}
+
+#bottles_button{
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 30%;
+    background-color: rgb(250, 135, 135) ;
+}
+
+#fruit_basket_button{
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 30%;
+    background-color: rgb(135, 250, 169) ;
+}
+
+#back_p1_button{
+    font-size: 18px;
+    border-radius: 10px;
+    padding: 3px;
+    width: 20%;
+    background-color: lightpink;
 }
