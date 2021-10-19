@@ -8,9 +8,7 @@ function setup() {
 img = "";
 status = "";
 objects = [];
-function preload() {
-    img = loadImage("dog_cat.jpg");
-}
+
 
 function preload() {
     img = loadImage("bed-room-img.jpg");
